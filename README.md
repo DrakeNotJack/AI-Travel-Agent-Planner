@@ -34,15 +34,10 @@ This roadmap focuses on system limitations identified during reproduction and pl
 
 ### ✅ Currently supported / 当前支持
 
-- 用户可删除不喜欢的景点 / Users can delete disliked POIs
-
-- 景点顺序可手动调整 / Manual reordering supported
-
-- 景点游览时长可编辑 / Visit duration editable
+基础旅行信息配置：日期选择、交通方式偏好、住宿需求设置、旅行风格偏好（如自然 / 人文 / 美食）及额外定制要求输入
+Basic travel info configuration: date selection, transportation preference, accommodation requirement setup, travel style preference (e.g., nature/culture/food) & custom request input
 
 ### 🔧 Planned Enhancements / 计划增强
-
-- 删除后自动重新平衡行程（补充景点、调节节奏） / Dynamic rebalancing after POI deletion (replace or adjust pacing)
 
 - 支持预算（budget）约束 / Budget constraints
 
@@ -74,7 +69,15 @@ This roadmap focuses on system limitations identified during reproduction and pl
 ---
 ## 4. 🔄 Interactive Re-planning / 交互式再规划
 
-让用户的反馈触发自动调整。 / Enable users to refine itinerary through feedback-driven updates.
+用户的反馈触发自动调整。 / Enable users to refine itinerary through feedback-driven updates.
+
+### ✅ Currently supported / 当前支持
+
+- 用户可删除不喜欢的景点 / Users can delete disliked POIs
+
+- 景点顺序可手动调整 / Manual reordering supported
+
+- 景点游览时长可编辑 / Visit duration editable
 
 ### Planned features / 计划功能
 
