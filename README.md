@@ -84,7 +84,7 @@ The agent supports dynamic re-planning based on natural-language feedback or use
 
 #### Feedback-driven adjustments
 
-基于反馈的自动调整
+#### 基于反馈的自动调整
 
 Examples 示例：
 
@@ -108,7 +108,7 @@ Mechanism 机制：
 
 #### User edits (Delete / Modify / Add)
 
-用户编辑（删除 / 修改 / 新增）
+#### 用户编辑（删除 / 修改 / 新增）
 
 All edit actions trigger automatic re-planning.
 
