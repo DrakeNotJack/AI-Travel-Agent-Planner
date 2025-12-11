@@ -1,0 +1,12 @@
+Collecting loguru
+  Obtaining dependency information for loguru from https://files.pythonhosted.org/packages/0c/29/0348de65b8cc732daa3e33e67806420b2ae89bdce2b04af740289c5c6c8c/loguru-0.7.3-py3-none-any.whl.metadata
+  Downloading loguru-0.7.3-py3-none-any.whl.metadata (22 kB)
+Requirement already satisfied: colorama>=0.3.4 in c:\users\xieqi\desktop\agent\hello-agents\code\chapter13\helloagents-trip-planner\backend\venv\lib\site-packages (from loguru) (0.4.6)
+Collecting win32-setctime>=1.0.0 (from loguru)
+  Obtaining dependency information for win32-setctime>=1.0.0 from https://files.pythonhosted.org/packages/e1/07/c6fe3ad3e685340704d314d765b7912993bcb8dc198f0e7a89382d37974b/win32_setctime-1.2.0-py3-none-any.whl.metadata
+  Downloading win32_setctime-1.2.0-py3-none-any.whl.metadata (2.4 kB)
+Downloading loguru-0.7.3-py3-none-any.whl (61 kB)
+   ---------------------------------------- 61.6/61.6 kB 410.8 kB/s eta 0:00:00
+Downloading win32_setctime-1.2.0-py3-none-any.whl (4.1 kB)
+Installing collected packages: win32-setctime, loguru
+Successfully installed loguru-0.7.3 win32-setctime-1.2.0

@@ -1,0 +1,7 @@
+Collecting uv
+  Obtaining dependency information for uv from https://files.pythonhosted.org/packages/08/a0/ab5b1850197bf407d095361b214352e40805441791fed35b891621cb1562/uv-0.9.17-py3-none-win_amd64.whl.metadata
+  Downloading uv-0.9.17-py3-none-win_amd64.whl.metadata (12 kB)
+Downloading uv-0.9.17-py3-none-win_amd64.whl (22.1 MB)
+   ---------------------------------------- 22.1/22.1 MB 20.4 MB/s eta 0:00:00
+Installing collected packages: uv
+Successfully installed uv-0.9.17

@@ -1,0 +1,19 @@
+Collecting fastapi
+  Obtaining dependency information for fastapi from https://files.pythonhosted.org/packages/25/c5/8a5231197b81943b2df126cc8ea2083262e004bee3a39cf85a471392d145/fastapi-0.124.2-py3-none-any.whl.metadata
+  Downloading fastapi-0.124.2-py3-none-any.whl.metadata (30 kB)
+Requirement already satisfied: starlette<0.51.0,>=0.40.0 in c:\users\xieqi\desktop\agent\hello-agents\code\chapter13\helloagents-trip-planner\backend\venv\lib\site-packages (from fastapi) (0.50.0)
+Requirement already satisfied: pydantic!=1.8,!=1.8.1,!=2.0.0,!=2.0.1,!=2.1.0,<3.0.0,>=1.7.4 in c:\users\xieqi\desktop\agent\hello-agents\code\chapter13\helloagents-trip-planner\backend\venv\lib\site-packages (from fastapi) (2.12.5)
+Requirement already satisfied: typing-extensions>=4.8.0 in c:\users\xieqi\desktop\agent\hello-agents\code\chapter13\helloagents-trip-planner\backend\venv\lib\site-packages (from fastapi) (4.15.0)
+Collecting annotated-doc>=0.0.2 (from fastapi)
+  Obtaining dependency information for annotated-doc>=0.0.2 from https://files.pythonhosted.org/packages/1e/d3/26bf1008eb3d2daa8ef4cacc7f3bfdc11818d111f7e2d0201bc6e3b49d45/annotated_doc-0.0.4-py3-none-any.whl.metadata
+  Downloading annotated_doc-0.0.4-py3-none-any.whl.metadata (6.6 kB)
+Requirement already satisfied: annotated-types>=0.6.0 in c:\users\xieqi\desktop\agent\hello-agents\code\chapter13\helloagents-trip-planner\backend\venv\lib\site-packages (from pydantic!=1.8,!=1.8.1,!=2.0.0,!=2.0.1,!=2.1.0,<3.0.0,>=1.7.4->fastapi) (0.7.0)
+Requirement already satisfied: pydantic-core==2.41.5 in c:\users\xieqi\desktop\agent\hello-agents\code\chapter13\helloagents-trip-planner\backend\venv\lib\site-packages (from pydantic!=1.8,!=1.8.1,!=2.0.0,!=2.0.1,!=2.1.0,<3.0.0,>=1.7.4->fastapi) (2.41.5)
+Requirement already satisfied: typing-inspection>=0.4.2 in c:\users\xieqi\desktop\agent\hello-agents\code\chapter13\helloagents-trip-planner\backend\venv\lib\site-packages (from pydantic!=1.8,!=1.8.1,!=2.0.0,!=2.0.1,!=2.1.0,<3.0.0,>=1.7.4->fastapi) (0.4.2)
+Requirement already satisfied: anyio<5,>=3.6.2 in c:\users\xieqi\desktop\agent\hello-agents\code\chapter13\helloagents-trip-planner\backend\venv\lib\site-packages (from starlette<0.51.0,>=0.40.0->fastapi) (4.12.0)
+Requirement already satisfied: idna>=2.8 in c:\users\xieqi\desktop\agent\hello-agents\code\chapter13\helloagents-trip-planner\backend\venv\lib\site-packages (from anyio<5,>=3.6.2->starlette<0.51.0,>=0.40.0->fastapi) (3.11)
+Downloading fastapi-0.124.2-py3-none-any.whl (112 kB)
+   ---------------------------------------- 112.7/112.7 kB 6.4 MB/s eta 0:00:00
+Downloading annotated_doc-0.0.4-py3-none-any.whl (5.3 kB)
+Installing collected packages: annotated-doc, fastapi
+Successfully installed annotated-doc-0.0.4 fastapi-0.124.2
