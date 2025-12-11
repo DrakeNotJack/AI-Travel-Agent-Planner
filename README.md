@@ -22,11 +22,11 @@ This roadmap focuses on system limitations identified during reproduction and pl
 
 - 当前高德 POI API 不提供两个景点间的交通时间
 
-  - Amap POI API lacks travel-time data between attractions
+- Amap POI API lacks travel-time data between attractions
 
   - 可通过高德路线规划 API 或 Google Distance Matrix 实现
 
-    - Implementation via Amap Route-Planning API or Google Distance Matrix
+  - Implementation via Amap Route-Planning API or Google Distance Matrix
 
 
 ---
@@ -78,11 +78,9 @@ This roadmap focuses on system limitations identified during reproduction and pl
 
 ### Planned features / 计划功能
 
-The agent supports dynamic re-planning based on natural-language feedback or user edits.
- Users mainly interact through a simple text input box, with optional shortcut buttons to pre-fill common feedback phrases.
+The agent supports dynamic re-planning based on natural-language feedback or user edits. Users mainly interact through a simple text input box, with optional shortcut buttons to pre-fill common feedback phrases.
 
-智能体支持基于自然语言反馈或用户编辑的动态再规划。
- 用户主要通过一个对话框输入反馈，并可选地使用一些快捷按钮来快速填充常见反馈内容。
+智能体支持基于自然语言反馈或用户编辑的动态再规划。用户主要通过一个对话框输入反馈，并可选地使用一些快捷按钮来快速填充常见反馈内容。
 
 #### Feedback-driven adjustments
 
@@ -98,7 +96,7 @@ Examples 示例：
 
 - “太赶了” → 减少景点或增加缓冲时间
 
-- “I don’t want so many museums.” → shift categories
+- “I don’t want to visit so many museums.” → shift categories
 
 - “不想看那么多博物馆” → 自动调整类别比例
 
@@ -136,9 +134,9 @@ Triggered via natural-language (“I want to visit X”, “Add more food places
 
 Mechanism 机制：
 
- Intent extraction → POI search → optimal insertion → recalc route & timing
+ */Intent extraction → POI search → optimal insertion → recalc route & timing*/
 
- 解析新增意图 → 搜索 POI → 插入最佳位置 → 重算路线与时间。
+ */解析新增意图 → 搜索 POI → 插入最佳位置 → 重算路线与时间。*/
 
 
 ---
