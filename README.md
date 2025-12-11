@@ -82,9 +82,7 @@ The agent supports dynamic re-planning based on natural-language feedback or use
 
 智能体支持基于自然语言反馈或用户编辑的动态再规划。用户主要通过一个对话框输入反馈，并可选地使用一些快捷按钮来快速填充常见反馈内容。
 
-#### Feedback-driven adjustments
-
-#### 基于反馈的自动调整
+#### Feedback-driven adjustments / 基于反馈的自动调整
 
 Examples 示例：
 
@@ -106,9 +104,7 @@ Mechanism 机制：
 
  自然语言反馈 → LLM 解析 → 更新约束 → 自动再规划。
 
-#### User edits (Delete / Modify / Add)
-
-#### 用户编辑（删除 / 修改 / 新增）
+#### User edits (Delete / Modify / Add) / 用户编辑（删除 / 修改 / 新增）
 
 All edit actions trigger automatic re-planning.
 
