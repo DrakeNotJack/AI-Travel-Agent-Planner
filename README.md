@@ -30,7 +30,7 @@ This roadmap focuses on system limitations identified during reproduction and pl
 
 
 ---
-## 2. 🧭 Constraint-Aware Planning / 约束感知规划（部分支持）
+## 2. 🧭 Constraint-Aware Planning / 约束感知规划
 
 ### ✅ Currently supported / 当前支持
 
