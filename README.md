@@ -104,9 +104,9 @@ Examples 示例：
 
 *Mechanism 机制：*
 
-* Natural-language feedback → LLM intent extraction → update constraints → regenerate itinerary.*
+*Natural-language feedback → LLM intent extraction → update constraints → regenerate itinerary.*
 
- *自然语言反馈 → LLM 解析 → 更新约束 → 自动再规划。*/
+*自然语言反馈 → LLM 解析 → 更新约束 → 自动再规划。*
 
 #### User edits (Delete / Modify / Add) / 用户编辑（删除 / 修改 / 新增）
 
@@ -134,9 +134,9 @@ Triggered via natural-language (“I want to visit X”, “Add more food places
 
 *Mechanism 机制：*
 
- *Intent extraction → POI search → optimal insertion → recalc route & timing*
+*Intent extraction → POI search → optimal insertion → recalc route & timing*
 
- *解析新增意图 → 搜索 POI → 插入最佳位置 → 重算路线与时间。*
+*解析新增意图 → 搜索 POI → 插入最佳位置 → 重算路线与时间。*
 
 
 ---
